@@ -3,7 +3,7 @@ module github.com/quay/clair/v4
 go 1.16
 
 require (
-	github.com/docker/docker v1.13.1 // indirect
+	github.com/docker/docker v20.10.24+incompatible // indirect
 	github.com/go-stomp/stomp v2.0.6+incompatible
 	github.com/golang/mock v1.5.0 // indirect
 	github.com/google/go-cmp v0.5.4
